@@ -1,0 +1,47 @@
+Just some info for you if you get stuck at any point. Also let me know if you run into any issues,
+I've not tested it a whole lot. (And ignore that it's really ugly, I can make it look nicer if you're
+bothered).
+
+-------------------------------------------------------------------------
+ADDING TEAMS & LEAGUES
+-------------------------------------------------------------------------
+- There's a file called 'TEAM_NAMES.csv' in this folder, that's where it needs to stay, or you'll
+	get an error.
+- Inside this are all your team names.
+- You can open the file in Excel.
+- The top row should be the name of the league, and all rows below that should be the names of the teams.
+- There's an example in there for you that can be deleted.
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+LEAGUE DATA
+-------------------------------------------------------------------------
+- Each time you add a new match the league table is automatically saved for you.
+- They are saved in files in this folder that you can open in Excel. I'll use those to make your 
+	poster things.
+- You can open them in excel and edit them manually yourself if you make a mistake or something.
+- Keep backups is probably a good idea. Just copy paste the files into another folder on OneDrive
+	or something like that.
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+USING THE APP
+-------------------------------------------------------------------------
+- Should be self explanatory but I'll put this here anyway.
+- Top left there's a drop down menu for selecting a league. All leagues in 'TEAM_NAMES.csv' are
+	added automatically. If you want to remove a league, delete it from that file.
+- Obviously below that is a live view of your currently selected league table.
+- To change league tables, choose another from the drop down and click the change button.
+- On the top right is where you add new matches (when you receive scores from people).
+- Theres dropdown menus for each team, left is Home, right is Away.
+- Both dropdowns can select the same team but it should give you an error if you do that.
+- Under those are the score inputs. You can type or use the arrows. It's limited between 0 and 100.
+- Click the submit button to add the entered match to the league table.
+- Bottom right I added a match history thing so you can see what you just added to double check.
+- Most recent matches are at the top.
+- This resets each time you open and close the app.
+
+
+Let me know if you want anything adding/ changing.
